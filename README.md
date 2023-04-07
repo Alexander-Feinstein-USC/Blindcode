@@ -1,4 +1,6 @@
-Blindcode - Hide Leetcode question difficulty tags with the flip of a switch!
+# Blindcode
+
+Hide Leetcode question difficulty tags with the flip of a switch!
 
 Unlike similar extensions, Blindcode works on every page on both the old version and new version of Leetcode.
 
